@@ -17,6 +17,6 @@ You could replace the model used with a different one from here: [Llama-2-13B-ch
 Make sure you have `streamlit` and `langchain` installed and then execute the Python script:
 
 ```sh
-pip install streamlit langchain
+pip install -r requirements.txt
 streamlit run chat_with_llama2-WebUI.py
 ```
